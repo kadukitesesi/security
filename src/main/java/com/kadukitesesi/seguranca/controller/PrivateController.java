@@ -1,4 +1,4 @@
-package com.kadukitesesi.seguranca;
+package com.kadukitesesi.seguranca.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,5 +1,6 @@
-package com.kadukitesesi.seguranca;
+package com.kadukitesesi.seguranca.security;
 
+import com.kadukitesesi.seguranca.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

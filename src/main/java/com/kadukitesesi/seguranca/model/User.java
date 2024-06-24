@@ -1,4 +1,4 @@
-package com.kadukitesesi.seguranca;
+package com.kadukitesesi.seguranca.model;
 
 
 import lombok.Getter;

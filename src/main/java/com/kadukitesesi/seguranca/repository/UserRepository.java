@@ -1,5 +1,6 @@
-package com.kadukitesesi.seguranca;
+package com.kadukitesesi.seguranca.repository;
 
+import com.kadukitesesi.seguranca.model.User;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;
